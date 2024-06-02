@@ -9,10 +9,6 @@
 - Select scripts to run
 
 
-## Notes
-
-
-
 ## References
 - https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=node
 - https://platform.openai.com/docs/quickstart?context=node
